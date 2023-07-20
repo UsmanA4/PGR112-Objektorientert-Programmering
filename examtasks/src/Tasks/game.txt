@@ -1,0 +1,65 @@
+1
+GTA V
+2015
+OW
+---
+2
+Assassin's Creed:Valhalla
+2020
+ACTION
+---
+3
+God Of War
+2018
+OW
+---
+4
+Elden Rings
+2022
+OW
+---
+5
+Fifa 22
+2021
+SPORT
+---
+6
+Far Cry 6
+2020
+OW
+---
+7
+Gran Turismo
+2022
+RACING
+---
+8
+Need For Speed
+2013
+RACING
+---
+9
+The Witcher:Wild Hunt
+2015
+ACTION
+---
+10
+Spiderman
+2018
+OTHER
+---
+11
+Call Of Duty: Modern Warfare
+2020
+SHOOTER
+---
+12
+Rayman:Legends
+2016
+PLATFORM
+---
+13
+Fortnite
+2018
+SHOOTER
+---
