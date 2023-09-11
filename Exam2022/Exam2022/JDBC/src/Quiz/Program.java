@@ -7,7 +7,7 @@ import java.util.Scanner;
 public class Program {
     private final String url="jdbc:mysql://localhost:3306/quizdb";
     private final String user = "root";
-    private final String password="ss15343255123";
+    private final String password="";
     private final String myDriver = "com.mysql.cj.jdbc.Driver";
 
     private final int sum=0;
